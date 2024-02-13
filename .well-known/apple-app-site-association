@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "EYF346PHUG.website.tbd.wallet",
+        "paths": [
+          "/idv/*",
+          "/otherpath/*"
+        ]
+      },
+      {
+        "appID": "EYF346PHUG.website.tbd.wallet.development",
+        "paths": [
+          "/idv/*",
+          "/otherpath/*"
+        ]
+      },
+      {
+        "appID": "EYF346PHUG.xyz.block.flutterStarter",
+        "paths": [
+          "/idv/*",
+          "/otherpath/*"
+        ]
+      }
+    ]
+  }
+}
