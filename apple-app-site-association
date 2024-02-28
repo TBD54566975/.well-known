@@ -15,13 +15,6 @@
           "/idv/*",
           "/otherpath/*"
         ]
-      },
-      {
-        "appID": "EYF346PHUG.xyz.block.flutterStarter",
-        "paths": [
-          "/idv/*",
-          "/otherpath/*"
-        ]
       }
     ]
   }
