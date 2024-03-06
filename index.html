@@ -90,14 +90,14 @@
       .getElementById("web5IdentityWallet")
       .addEventListener("click", function (event) {
         event.preventDefault();
-        redirectToHttpsUri("https://tbd54566975.github.io/idv/");
+        redirectToHttpsUri("web5://oidc");
       });
 
     document
       .getElementById("didPay")
       .addEventListener("click", function (event) {
         event.preventDefault();
-        redirectToCustomUri("siop-v2://");
+        redirectToCustomUri("didpay://kyc");
       });
   </script>
 </body>
